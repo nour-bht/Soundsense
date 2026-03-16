@@ -1,4 +1,4 @@
-\ 1# Soundsense
+# Soundsense
  Acoustic Anomaly Detection for Predictive Maintenance 
 
 ## Description 
