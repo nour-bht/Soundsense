@@ -14,6 +14,9 @@ pip install librosa matplotlib numpy jupyter soundfile
 
 ## Project Structure 
 ├── data/            # MIMI dataset(not tracked by git)
+
 ├── notebooks/       # EDA and experiments
+
 |   └── eda.ipynb
+
 └── src/             # Source code (coming)
